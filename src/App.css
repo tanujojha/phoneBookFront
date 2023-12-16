@@ -1,5 +1,10 @@
+/* 164863
+427D9D
+9BBEC8
+DDF2FD */
+
 .App {
-  text-align: center;
+  text-align: center;  
 }
 
 .App-logo {
@@ -35,4 +40,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/*------------------------------------------------------------------- */
+.main{
+  background-color: #282c34;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  height: 100vh;
+}
+
+.content{
+  width: 75%;
+  margin-top: 50px;
+  height: 500px;  
+  
+}
+
+.contactsMain{
+  /* width: 40%; */
 }
